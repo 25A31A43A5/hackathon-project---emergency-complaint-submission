@@ -43,27 +43,27 @@ How to run:
 ./code
 
 Future Improvements:
-Web Dashboard Interface
+Web Dashboard Interface: 
 Add a simple web dashboard to visualize complaints using charts and tables, making it easier for authorities to monitor emergencies in real time.
 
-Automatic Data Refresh
+Automatic Data Refresh:
 Schedule periodic data fetching from Google Sheets so the system updates automatically without manual refresh.
 
-SMS / Email Alerts
+SMS / Email Alerts:
 Send instant alerts to authorities when a high-severity complaint is submitted.
 
-Geo-Location Mapping
+Geo-Location Mapping: 
 Integrate Google Maps to display complaint locations visually, helping responders reach the exact observation faster.
 
-Role-Based Access
+Role-Based Access:
 Different access levels for administrators, responders, and viewers to improve security and accountability.
 
-Mobile Application Support
+Mobile Application Support:
 Extend the system to a mobile app for faster complaint submission and tracking.
 
-Machine Learning Prioritization
+Machine Learning Prioritization:
 Use basic ML models to automatically assess complaint severity based on keywords and past data.
 
-Offline Data Backup
+Offline Data Backup:
 Store local backups of complaint data to ensure availability even if internet access fails.
 
